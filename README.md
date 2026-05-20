@@ -1,0 +1,2 @@
+# SatuDataSatuRasa
+tata kelola data
